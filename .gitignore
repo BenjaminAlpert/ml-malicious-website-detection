@@ -1,3 +1,6 @@
 data.csv
 raw_data.csv
 env
+location_data/
+.ipynb_checkpoints/
+
