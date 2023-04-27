@@ -2,5 +2,6 @@ data.csv
 raw_data.csv
 env
 location_data/
+location_data.zip
 .ipynb_checkpoints/
 saved_models/
